@@ -1,0 +1,13 @@
+I. Review:
+    A. Variables
+    B. Prompt
+    C. Write to document
+    D. Operators
+    E. If
+II. While loop
+    A. Make a loop of numbers
+    B. Teach the ++ and -- operators that increment or decrement by 1
+    C. Teach <br>
+III. Functions
+    A. Teach basic syntax and usage
+    B. Project: prompt for name and use a while loop to ask for their name and print to document

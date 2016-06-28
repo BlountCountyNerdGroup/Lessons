@@ -4,15 +4,11 @@ II. Information about club
     B. Tell them about guest speakers
     C. GitHub and extra resources
     D. Information about Advanced Nerd Club
-III. Teach HTML
-    A. Teach links, paragraphs, lines, headings, divisions
-        1. Build basic page with your name and a cool description
-IV. Teach JS
+III. Teach JS
     A. Explain variables
         1. Make variable with your name
     B. Explain basic data types
     C. Show the different operators
         1. Print your name and age
-V. Conclusion and final activity
+IV. Conclusion and final activity
     A. Print something to page from JS prompt
-    B. Talk about next week plans

@@ -1,0 +1,9 @@
+I. Github page with examples
+II. Review:
+    A. Variables
+    B. Prompt
+    C. Write to document
+    D. Operators
+III. Short project with review stuff
+    A. Create 2 prompts; store in vars (name, age); print result to page
+IV. Teach the ‘if’ statement and functions.
